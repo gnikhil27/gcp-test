@@ -2,8 +2,13 @@
 Testing Google Cloud Platform
 
 # TO-DO
-1. ## Ubuntu Docker
+## 1. Ubuntu Docker
 - [ ] Install git
 - [ ] Download Code
 - [ ] Install Apache, PHP
 - [ ] Install MongoDB 
+
+## 2. Load Testing
+- [ ] JMeter
+- [ ] Gatling
+- [ ] artillery.io
